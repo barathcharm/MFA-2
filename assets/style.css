@@ -41,6 +41,7 @@ body{
     font-weight: 900;
     font-family: Barlow ;
     line-height: 55px;
+    color: #162441;
   }
   .content1-1 p{
     margin-bottom: 40px;
@@ -81,6 +82,9 @@ body{
     width:250px;
     margin: 50px 0px 50px 100px;
   }
+.content2-1 h1{
+    color: #162441;
+}
   .content3{
     display: flex;
     margin:50px auto;
@@ -107,4 +111,5 @@ body{
     color:#162441;
     margin:20px 0px;
     font-size: 28px;
+    color: #162441;
   }
